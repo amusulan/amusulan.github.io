@@ -30,7 +30,7 @@ sidebar:
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages *Based on the Common European Framework of Reference for Languages.
+      title: Languages 
       info:
         - idiom: English
           level: Native
@@ -40,6 +40,8 @@ sidebar:
 
         - idiom: Romanian
           level: B2*
+          
+        - idiom: *Based on the Common European Framework of Reference for Languages.
 
     interests:
       title: Interests

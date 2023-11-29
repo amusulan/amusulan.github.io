@@ -86,15 +86,15 @@ education:
         university: University of Toronto
         time: 2018 - 2024
         details: |
-          # In my dissertation I developed a theory about democratic deliberation on social 
-          # media. I conducted three empirical studies to test each of the hypotheses from my 
-          # theory.
+          In my dissertation I developed a theory about democratic deliberation on social 
+          media. I conducted three empirical studies to test each of the hypotheses from my 
+          theory.
           
-          # My specializations were Comparative and Canadian Politics, with a focus on 
-          # quantitative methodology courses where I learned about statistics for the social 
-          # sciences and textual analysis. 
+          My specializations were Comparative and Canadian Politics, with a focus on 
+          quantitative methodology courses where I learned about statistics for the social 
+          sciences and textual analysis. 
           
-          Example courses
+          Example courses:
             - Computer-Assisted Textual Analysis
             - Canadian Judicial Politics
             - Multiple Regression for Political Scientists
@@ -104,21 +104,21 @@ education:
         university: University of Toronto
         time: 2017 - 2018
         details: |
-          # For my master's research project, I investigated the effect of traditional news
-          # media on public social media discourse using Granger Causality and semi-supervised
-          # topic modeling. I presented this work as a poster at the POLMETH Conference in
-          # 2018.
+          For my master's research project, I investigated the effect of traditional news
+          media on public social media discourse using Granger Causality and semi-supervised
+          topic modeling. I presented this work as a poster at the POLMETH Conference in
+          2018.
           
-          # My studies included quantitative methods, the digital side of geopolitics, and a 
-          # startup development course hosted by the Department of Computer Science Innovation 
-          # Lab (DCSIL) at the University of Toronto. 
+          My studies included quantitative methods, the digital side of geopolitics, and a 
+          startup development course hosted by the Department of Computer Science Innovation 
+          Lab (DCSIL) at the University of Toronto. 
           
-          # For "The Business of Software" course, I was paired with two computer science 
-          # undergraduate students and we developed a Virtual Reality (VR) business. I was 
-          # responsible for the ideation and business development, including, for example, 
-          # market research, value proposition, and pitch preparation.
+          For "The Business of Software" course, I was paired with two computer science 
+          undergraduate students and we developed a Virtual Reality (VR) business. I was 
+          responsible for the ideation and business development, including, for example, 
+          market research, value proposition, and pitch preparation.
 
-          Example courses
+          Example courses:
             - The Business of Software
             - Quantitative Methods and Data Analysis
 
@@ -126,7 +126,7 @@ education:
         university: University of Toronto
         time: 2011 - 2017
         details: |
-          Example courses
+          Example courses:
             - Introduction to Quantitative Reasoning I and II
             - Data Analysis
             - Political Economy of Technology

@@ -31,7 +31,7 @@ sidebar:
 
     languages:
       title: Languages *Language proficiency based on the CEFR 
-      ([Common European Framework of Reference for Languages](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)).
+      (Common European Framework of Reference for Languages).
       info:
         - idiom: English
           level: Native
@@ -104,7 +104,7 @@ education:
         details: |
           # For my master's research project, I investigated the effect of traditional news
           # media on public social media discourse using Granger Causality and semi-supervised
-          # topic modeling. I presented this work as a poster at the [POLMETH Conference](https://polmeth.org/files/files/polmeth/files/2018-byu-polmeth.pdf) in 
+          # topic modeling. I presented this work as a poster at the POLMETH Conference in
           # 2018.
           
           # My studies included quantitative methods, the digital side of geopolitics, and a 

@@ -30,17 +30,16 @@ sidebar:
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages *Language proficiency based on the CEFR 
-      (Common European Framework of Reference for Languages).
+      title: Languages *Based on the Common European Framework of Reference for Languages.
       info:
         - idiom: English
           level: Native
 
         - idiom: French
-          level: B1
+          level: B1*
 
         - idiom: Romanian
-          level: B2
+          level: B2*
 
     interests:
       title: Interests

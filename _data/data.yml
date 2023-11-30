@@ -214,48 +214,29 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Working Papers
-    intro: >
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
     papers:
-      - title: "Explaining support for covid-19 cell phone contact tracing." Canadian Journal of Political Science/Revue canadienne de science politique 54, no. 2 (2021): 431-448.
+      - title: "Explaining support for covid-19 cell phone contact tracing." 
         link: "#https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/explaining-support-for-covid19-cell-phone-contact-tracing/A6EC552B5B6D8177B910111ECCD7CD74"
         authors: Ludovic Rheault and Andreea Musulan
         conference: 
+        journal: Canadian Journal of Political Science/Revue canadienne de science politique 54, no. 2 (2021): 431-448.
 
-      - title: "Efficient detection of online communities and social bot activity during electoral campaigns." Journal of Information Technology & Politics 18, no. 3 (2021): 324-337.
+      - title: "Efficient detection of online communities and social bot activity during electoral campaigns." 
         link: "#https://www.tandfonline.com/doi/abs/10.1080/19331681.2021.1879705?journalCode=witp20"
         authors: Ludovic Rheault and Andreea Musulan
         conference:
+        journal: Journal of Information Technology & Politics 18, no. 3 (2021): 324-337.
 
-      - title: "Politicians in the line of fire: Incivility and the treatment of women on social media." Research & Politics 6, no. 1 (2019): 2053168018816228.
+
+      - title: "Politicians in the line of fire: Incivility and the treatment of women on social media." 
         link: "#https://journals.sagepub.com/doi/10.1177/2053168018816228"
         authors: Ludovic Rheault, Erica Rayment, and Andreea Musulan
         conference: 
+        journal: Research & Politics 6, no. 1 (2019): 2053168018816228.
+
         
     title: Working Papers
     intro: |
@@ -264,36 +245,43 @@ publications:
         link: 
         authors: Andreea Musulan, Andreas Park, and Ludovic Rheault
         conference: 
+        journal:
         
       - title: "Investigating Social Bot Influence on Elections." (2024)
         link: 
         authors: Andreea Musulan
         conference: 
+        journal:
 
       - title: "Does Partisanship Affect Moderation Practices on Twitter? A Case Study of the 2019 Canadian Federal Election on Twitter." (2024)
         link: 
         authors: Andreea Musulan
         conference: 
+        journal: 
 
       - title: "Interaction Polarization on Social Media." (2024)
         link: 
         authors: Kellin Pelrine, Andreea Musulan, Reihaneh Rabbany, Jean-Francois Godbout, Zachary Yang, Sacha Lévy, Jacob Tian, Sahar Omidi Shayegan, Anne Imouza, and Cécile Amadoro. (Complex Data Lab)
         conference: 
+        journal: 
 
       - title: "The Winners and Losers of Rental Tribunals." (2022)
         link: "#https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4029114"
         authors: Andreea Musulan
         conference: 
+        journal: 
 
       - title: "Does it matter where a judge comes from? Using computational social science approaches to assess regional representation on the Supreme Court." (2024)
         link: 
         authors: Andrew McDougall, Robert Schertzer, and Andreea Musulan
         conference: 
+        journal: 
 
       - title: "The Language of Protectionism." (2024)
         link: 
         authors: Ludovic Rheault and Andreea Musulan
         conference: 
+        journal: 
 
 skills:
     title: Skills &amp; Proficiency
@@ -301,12 +289,15 @@ skills:
     toolset:
       - name: Python & R
         level: 98%
-
-      - name: SQL
+        
+      - name: web3
         level: 70%
+        
+      - name: SQL
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 65%
+        level: 55%
 
 
 footer: >

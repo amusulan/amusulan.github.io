@@ -41,8 +41,7 @@ sidebar:
         - idiom: Romanian
           level: B2*
           
-        - idiom: &#42;Language proficiency based on the CEFR 
-          level: Common European Framework of Reference for Languages
+        - framework: &#42;Language proficiency based on the Common European Framework of Reference for Languages (CEFR) 
 
     interests:
       title: Interests

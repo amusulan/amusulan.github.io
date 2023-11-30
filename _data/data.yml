@@ -215,7 +215,7 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 publications:
-    title: Publications
+    title: Publications and Working Papers
     intro: |
     papers:
       - title: "Explaining support for covid-19 cell phone contact tracing."  
@@ -230,7 +230,6 @@ publications:
         conference:
         journal: Journal of Information Technology & Politics 18, no. 3, 324-337. (2021)
 
-
       - title: "Politicians in the line of fire: Incivility and the treatment of women on social media."  
         link: "#https://journals.sagepub.com/doi/10.1177/2053168018816228"
         authors: Ludovic Rheault, Erica Rayment, and Andreea Musulan
@@ -241,7 +240,7 @@ publications:
         link: 
         authors: Andreea Musulan, Andreas Park, and Ludovic Rheault
         conference: 
-        journal: Dissertation chapter and working paper (2024)
+        journal: <b>Dissertation chapter and working paper (2024)</b>
         
       - title: "Investigating Social Bot Influence on Elections."
         link: 

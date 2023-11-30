@@ -215,11 +215,8 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: Working Papers
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -244,46 +241,73 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Explaining support for covid-19 cell phone contact tracing." Canadian Journal of Political Science/Revue canadienne de science politique 54, no. 2 (2021): 431-448.
+        link: "#https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/explaining-support-for-covid19-cell-phone-contact-tracing/A6EC552B5B6D8177B910111ECCD7CD74"
+        authors: Ludovic Rheault and Andreea Musulan
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Efficient detection of online communities and social bot activity during electoral campaigns." Journal of Information Technology & Politics 18, no. 3 (2021): 324-337.
+        link: "#https://www.tandfonline.com/doi/abs/10.1080/19331681.2021.1879705?journalCode=witp20"
+        authors: Ludovic Rheault and Andreea Musulan
+        conference:
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Politicians in the line of fire: Incivility and the treatment of women on social media." Research & Politics 6, no. 1 (2019): 2053168018816228.
+        link: "#https://journals.sagepub.com/doi/10.1177/2053168018816228"
+        authors: Ludovic Rheault, Erica Rayment, and Andreea Musulan
+        conference: 
+        
+    title: Working Papers
+    intro: |
+    papers:
+      - title: "Did Wall Street Take Over Reddit?" (2024)
+        link: 
+        authors: Andreea Musulan, Andreas Park, and Ludovic Rheault
+        conference: 
+        
+      - title: "Investigating Social Bot Influence on Elections." (2024)
+        link: 
+        authors: Andreea Musulan
+        conference: 
+
+      - title: "Does Partisanship Affect Moderation Practices on Twitter? A Case Study of the 2019 Canadian Federal Election on Twitter." (2024)
+        link: 
+        authors: Andreea Musulan
+        conference: 
+
+      - title: "Interaction Polarization on Social Media." (2024)
+        link: 
+        authors: Kellin Pelrine, Andreea Musulan, Reihaneh Rabbany, Jean-Francois Godbout, Zachary Yang, Sacha Lévy, Jacob Tian, Sahar Omidi Shayegan, Anne Imouza, and Cécile Amadoro. (Complex Data Lab)
+        conference: 
+
+      - title: "The Winners and Losers of Rental Tribunals." (2022)
+        link: "#https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4029114"
+        authors: Andreea Musulan
+        conference: 
+
+      - title: "Does it matter where a judge comes from? Using computational social science approaches to assess regional representation on the Supreme Court." (2024)
+        link: 
+        authors: Andrew McDougall, Robert Schertzer, and Andreea Musulan
+        conference: 
+
+      - title: "The Language of Protectionism." (2024)
+        link: 
+        authors: Ludovic Rheault and Andreea Musulan
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
